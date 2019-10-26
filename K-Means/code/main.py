@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from K_means import *
+from k_means import *
 
 DATASET = "iris.csv"
 K_NUM   = 3
